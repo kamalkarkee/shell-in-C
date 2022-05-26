@@ -1,6 +1,5 @@
 
 /*Name:Kamal Karkidholi
-  Student id: 1001514809
   CSE-3320-001
 */
 
@@ -100,9 +99,7 @@ int main(void) {
                  break;
       case 'm':printf("Enter the directory to move the files to other directory");
               scanf("%s", cmd);
-           //   mkdir(cmd,d);
-             // mv(cmd,name)
-       
+          
       }
        
     }
